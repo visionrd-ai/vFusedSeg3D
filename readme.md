@@ -63,10 +63,10 @@ We would like to thank the organizers of the Waymo Open Challenge and the Worksh
 
 ## Contact
 
-[<img alt="alt_text" width="40px" src="utils/Linkedin.png" />](https://www.linkedin.com/company/visionrd-ai/)
-[<img alt="alt_text" width="40px" src="utils/Instagram.png" />](https://www.instagram.com/visionrdai/)
-[<img alt="alt_text" width="40px" src="utils/Facebook.png" />](https://www.facebook.com/visionrdai/)
-[<img alt="alt_text" width="40px" src="utils/Twitter.png" />](https://twitter.com/Visionrd_ai/)
-[<img alt="alt_text" width="40px" src="utils/YouTube.png" />](https://www.youtube.com/@Visionrdai/)
+[<img alt="alt_text" width="40px" src="images/Linkedin.png" />](https://www.linkedin.com/company/visionrd-ai/)
+[<img alt="alt_text" width="40px" src="images/Instagram.png" />](https://www.instagram.com/visionrdai/)
+[<img alt="alt_text" width="40px" src="images/Facebook.png" />](https://www.facebook.com/visionrdai/)
+[<img alt="alt_text" width="40px" src="images/Twitter.png" />](https://twitter.com/Visionrd_ai/)
+[<img alt="alt_text" width="40px" src="images/YouTube.png" />](https://www.youtube.com/@Visionrdai/)
 
 
