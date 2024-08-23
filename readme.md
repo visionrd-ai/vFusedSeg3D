@@ -23,7 +23,7 @@ vFusedSeg3D is a state-of-the-art architecture that won the Waymo Open Challenge
 Our architecture uses dual-modal feature extraction to take advantage of the capabilities of both image and LiDAR data, resulting in robust feature representation.
 
 
-![vFusedSeg3D Architecture](images/new_vfusedSeg3d.png.png)
+![vFusedSeg3D Architecture](images/new_vfusedSeg3d.png)
 
 
 ### Key Components
