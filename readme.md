@@ -26,7 +26,7 @@ Our architecture uses dual-modal feature extraction to take advantage of the cap
 ![vFusedSeg3D Architecture](images/new_vfusedSeg3d.png)
 
 
-You can visualize our [Tensorboard]([https://cvpr2024.wad.vision/](https://huggingface.co/Osama99/vFusedSeg3D/tensorboard?params=timeseries#frame)). 
+You can visualize our [Tensorboard](https://huggingface.co/Osama99/vFusedSeg3D/tensorboard?params=timeseries#frame). 
 ![Tensorboard](images/tensorboard.png)
 
 ### Our Final Results
