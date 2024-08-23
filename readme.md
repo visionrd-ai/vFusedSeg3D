@@ -8,7 +8,9 @@ vFusedSeg3D is a state-of-the-art architecture that won the Waymo Open Challenge
 
 - **Challenge Achievement**: vFusedSeg3D technical document was presented at [Workshop on Autonomous Driving CVPR 2024](https://cvpr2024.wad.vision/). 
 
-<img src="images/CVPR%20Winner%20Weibo%205.jpg" alt="CVPR Workshop challange Winners" style="border: 3px solid #000000;"/>
+<div align="center">
+  <img src="images/CVPR%20Winner%20Weibo%205.jpg" alt="CVPR Workshop challange Winners" style="border: 3px solid #000000;"/>
+</div>
 
 - **Challenge Achievement**: vFusedSeg3D achieved first place in the Waymo Open Challenge 2024, demonstrating exceptional performance in 3D semantic segmentation tasks.
 
@@ -22,8 +24,9 @@ vFusedSeg3D is a state-of-the-art architecture that won the Waymo Open Challenge
 
 Our architecture uses dual-modal feature extraction to take advantage of the capabilities of both image and LiDAR data, resulting in robust feature representation.
 
-
-![vFusedSeg3D Architecture](images/new_vfusedSeg3d.png)
+<div align="center">
+  <img src="images/new_vfusedSeg3d.png" alt="vFusedSeg3D Architecture" style="border: 3px solid #000000;"/>
+</div>
 
 
 You can visualize our [Tensorboard](https://huggingface.co/Osama99/vFusedSeg3D/tensorboard?params=timeseries#frame). 
@@ -31,7 +34,10 @@ You can visualize our [Tensorboard](https://huggingface.co/Osama99/vFusedSeg3D/t
 
 ### Our Final Results
 
-![vFusedSeg3D results](images/results.png)
+<div align="center">
+  <img src="images/results.png" alt="vFusedSeg3D results" style="border: 3px solid #000000;"/>
+</div>
+
 
 ### Key Components
 
