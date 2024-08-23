@@ -55,7 +55,7 @@ You can visualize our [Tensorboard](https://huggingface.co/Osama99/vFusedSeg3D/t
 
 The detailed technical document which was accepted at CVPR 2024 that explains the vFusedSeg3D architecture is available at:
 
-- [Technical Document PDF](https://cvpr2024.wad.vision/)
+- [Technical Document PDF](https://storage.googleapis.com/waymo-uploads/files/research/2024%20Technical%20Reports/2024%20WOD%203D%20Sem%20Seg%20Challenge%20-%203rd%20Place%20-%20vFusedSeg3d.pdf)
 
 ## Acknowledgements
 
