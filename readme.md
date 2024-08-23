@@ -8,7 +8,7 @@ vFusedSeg3D is a state-of-the-art architecture that won the Waymo Open Challenge
 
 - **Challenge Achievement**: vFusedSeg3D technical document was presented at [Workshop on Autonomous Driving CVPR 2024](https://cvpr2024.wad.vision/). 
 
-![CVPR Workshop challange Winners](images/CVPR%20Winner%20Weibo%205.jpg)
+<img src="images/CVPR%20Winner%20Weibo%205.jpg" alt="CVPR Workshop challange Winners" style="border: 3px solid #000000;"/>
 
 - **Challenge Achievement**: vFusedSeg3D achieved first place in the Waymo Open Challenge 2024, demonstrating exceptional performance in 3D semantic segmentation tasks.
 
