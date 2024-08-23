@@ -63,9 +63,10 @@ We would like to thank the organizers of the Waymo Open Challenge and the Worksh
 
 ## Contact
 
-For further information, please contact [Your Contact Information].
+[<img alt="alt_text" width="40px" src="utils/Linkedin.png" />](https://www.linkedin.com/company/visionrd-ai/)
+[<img alt="alt_text" width="40px" src="utils/Instagram.png" />](https://www.instagram.com/visionrdai/)
+[<img alt="alt_text" width="40px" src="utils/Facebook.png" />](https://www.facebook.com/visionrdai/)
+[<img alt="alt_text" width="40px" src="utils/Twitter.png" />](https://twitter.com/Visionrd_ai/)
+[<img alt="alt_text" width="40px" src="utils/YouTube.png" />](https://www.youtube.com/@Visionrdai/)
 
-## License
-
-This project is licensed under the [Your License] License - see the [LICENSE](LICENSE) file for details.
 
