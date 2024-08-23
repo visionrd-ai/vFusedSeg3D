@@ -26,6 +26,13 @@ Our architecture uses dual-modal feature extraction to take advantage of the cap
 ![vFusedSeg3D Architecture](images/new_vfusedSeg3d.png)
 
 
+You can visualize our [Tensorboard]([https://cvpr2024.wad.vision/](https://huggingface.co/Osama99/vFusedSeg3D/tensorboard?params=timeseries#frame)). 
+![Tensorboard](images/tensorboard.png)
+
+### Our Final Results
+
+![vFusedSeg3D results](images/results.png)
+
 ### Key Components
 
 - **[Component 1]**: VFusedSeg3D uses the rich semantic content of the camera pictures and the accurate depth sensing of LiDAR to generate a strong and comprehensive environmental understanding, addressing the constraints inherent in each modality.
