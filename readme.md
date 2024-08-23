@@ -49,7 +49,7 @@ You can visualize our [Tensorboard](https://huggingface.co/Osama99/vFusedSeg3D/t
 ### Innovations
 
 - **[Innovation 1]**: First time point based lidar backbone features fused with camera semantic features.
-- **[Innovation 2]**: Whole architecture trained on a single RTX 3090 24gigs GPU..
+- **[Innovation 2]**: Whole architecture trained on a **single RTX 3090 24gigs GPU**.
 
 ## Technical Document
 
