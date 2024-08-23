@@ -29,6 +29,9 @@ Our architecture uses dual-modal feature extraction to take advantage of the cap
 </div>
 
 
+
+
+
 You can visualize our [Tensorboard](https://huggingface.co/Osama99/vFusedSeg3D/tensorboard?params=timeseries#frame). 
 ![Tensorboard](images/tensorboard.png)
 
